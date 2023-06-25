@@ -14,3 +14,9 @@
     margin: 0.5rem 0;
     padding: 0.5rem;
 }
+.title {
+    margin: -3rem auto;
+    padding: 0.5rem;
+    width: 90%;
+    max-width: 40rem;
+}
